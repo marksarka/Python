@@ -1,3 +1,4 @@
+pycurl==8.3.0
 beautifulsoup4
 fake_useragent
 keras
