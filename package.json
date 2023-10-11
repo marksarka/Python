@@ -1,0 +1,12 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "My Node.js application description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-libcurl": "^3.0.0"  // Use the latest version available on npm at the time of installation
+  }
+}
